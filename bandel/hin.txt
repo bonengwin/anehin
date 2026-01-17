@@ -14,6 +14,7 @@
      <title>MUSANG178 ✈️ Bandar Togel Online Aman & Situs Toto Togel Terjamin</title>
      <meta name="description" content="selamat datang di website Slot 4D, bandar togel online, situs toto togel yang sangat aman terpercaya dengan pelayanan baik, hasil akurat serta result tercepat.">
      <meta name="keywords" content="musang178, togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online" />
+     <meta name="google-site-verification" content="a06tKIFm6mAvi0l64iNy9rnssy2GyXBHvvNPetOBX0A" />
      <link rel="canonical" href="https://jdih-dprd.kuduskab.go.id/">
      <link rel="amphtml" href="https://jdih-dprd.kuduskab.go.id/"/>
      <!-- /snippets/social-meta-tags.liquid -->
